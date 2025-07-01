@@ -1,18 +1,47 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Práctica de Sets
 
-## Folder Structure
+## 📌 Información General
 
-The workspace contains two folders by default, where:
+- **Título:** Práctica de Colecciones Set
+- **Asignatura:** Estructura de Datos
+- **Carrera:** Computación
+- **Estudiante:** Isabel Ullauri
+- **Fecha:** 1/7/2025
+- **Profesor:** Ing. Pablo Torres
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🛠️ Descripción
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Este proyecto implementa y compara diferentes colleciones Set en Java, incluyendo:
+- Hash Set
+- LinkedHash Set
+- Tree Set
+- Tree Set Con Comparador
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🚀 Ejecución
+
+Para ejecutar el proyecto:
+
+1. Compila el código:
+    ```bash
+    javac App.java
+    ```
+2. Ejecuta la aplicación:
+    ```bash
+    java App
+    ```
+
+---
+
+## 🧑‍💻 Ejemplo de Salida
+
+![Screenshot 2025-07-01 084606](https://github.com/user-attachments/assets/d9a2ec80-75bb-40b5-84dd-8f57fbdb39e5)
+![Screenshot 2025-07-01 084542](https://github.com/user-attachments/assets/1e5125f6-c981-4b94-9ec4-1ae430ae02e2)
+
+
+---
+
