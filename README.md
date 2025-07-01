@@ -39,8 +39,9 @@ Para ejecutar el proyecto:
 
 ## 🧑‍💻 Ejemplo de Salida
 
-![Screenshot 2025-07-01 084606](https://github.com/user-attachments/assets/d9a2ec80-75bb-40b5-84dd-8f57fbdb39e5)
 ![Screenshot 2025-07-01 084542](https://github.com/user-attachments/assets/1e5125f6-c981-4b94-9ec4-1ae430ae02e2)
+![Screenshot 2025-07-01 084606](https://github.com/user-attachments/assets/d9a2ec80-75bb-40b5-84dd-8f57fbdb39e5)
+
 
 
 ---
