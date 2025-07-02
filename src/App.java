@@ -1,3 +1,4 @@
+import controller.ContactoController;
 import controller.Sets;
 import java.util.Set;
 public class App {
@@ -10,6 +11,10 @@ public class App {
         runTreeSet(sets);
         runTreeSetConComparador(sets);
         runTreeSetConComparador2(sets);
+
+        ContactoController cC= new ContactoController();
+        
+
         
         
     }
